@@ -981,6 +981,20 @@ p.form-message.error {
 
   .check-icon {
     width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+
+  .texto-centrado {
+    text-align: center;
+  }
+
+  .texto-align-start {
+    text-align: start;
+  }
+  .display-flex-container {
+    display: flex;
+    align-items: center;
   }
 
 .copyright {
